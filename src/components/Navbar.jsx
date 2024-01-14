@@ -6,7 +6,7 @@ const Navbar = () => {
         <>
 
             <nav>
-                <ul className='flex justify-center gap-10 my-10 '>
+                <ul className='flex justify-evenly gap-10 my-10 bg-black text-white'>
                     <li>
                         <Link to='/'> Home </Link>
                     </li>
